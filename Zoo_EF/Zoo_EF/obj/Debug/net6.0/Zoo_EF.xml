@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Zoo_EF</name>
+    </assembly>
+    <members>
+        <member name="M:Zoo_EF.Controllers.AnimalsController.DeleteAnimals(System.Int32)">
+            <summary>
+            Deletes a specific TodoItem.
+            </summary>
+        </member>
+        <member name="M:Zoo_EF.Controllers.AnimalTypesController.DeleteAnimalTypes(System.Int32)">
+            <summary>
+            Deletes a specific TodoItem.
+            </summary>
+        </member>
+        <member name="M:Zoo_EF.Controllers.OwnersController.DeleteOwners(System.Int32)">
+            <summary>
+            Deletes a specific TodoItem.
+            </summary>
+        </member>
+        <member name="T:Zoo_EF.Migrations.initial">
+            <inheritdoc />
+        </member>
+        <member name="M:Zoo_EF.Migrations.initial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Zoo_EF.Migrations.initial.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Zoo_EF.Migrations.initial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
